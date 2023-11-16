@@ -9,6 +9,10 @@ public class Tc2 {
 	public void m2()
 	{
 		Reporter.log("Tc2 Running",true);
+	
+		Reporter.log("Tc2 Running",true);
+		
+	
 	}
 
 }
